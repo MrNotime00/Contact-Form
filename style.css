@@ -1,0 +1,57 @@
+p,h1,p1,h5{
+  margin: 10px 500px;
+
+}
+h1{
+background-color:#b7e2ed;
+padding:10px;
+
+}
+p{
+border-radius:10px;
+}
+.container{
+  background-color: lightblue;
+  padding: 5px 20px 150px 20px;
+  border: 3px solid lightgray;
+  border-radius: 200px 2000px;
+}
+
+input[type="address"]{
+  width: 92%;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius:5px ;
+  margin: 1px;
+background-color:#cee9f0
+}
+input[type="text"]{
+width: 90%;
+  padding: 25px;
+  border: 1px solid black;
+  border-radius:5px ;
+  margin: 1px;
+background-color:#b8e7f2;
+}
+input[type="1"],
+input[type="2"],
+input[type="e"],
+input[type="ph"]{
+width:40%;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius:10px ;
+  margin: 6px;
+background-color:#cadce6;
+}
+input[type="sub"]{
+width:97%;
+padding:8px;
+border-radius:3px;
+background-color: #abe6f5;
+ border: 1px solid black;
+}
+p{
+text-align: center;
+}
+
